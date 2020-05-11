@@ -2,8 +2,9 @@
 
 ## Project Links
 
-- [repo link](https://github.com/carlynicholson/spaero)
 - deployment link
+- [frontend repo link](https://github.com/carlynicholson/spaero-frontend)
+- [backend repo link](https://github.com/carlynicholson/spaero-backend)
 
 ## Project Description
 
